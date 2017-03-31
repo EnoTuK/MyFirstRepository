@@ -17,8 +17,8 @@ type
     Exit1: TMenuItem;
     OpenDialog1: TOpenDialog;
     N3: TMenuItem;
-    Kaskad: TMenuItem;
-    Mozaik: TMenuItem;
+    Kaskad: TMenuItem; //element menu
+    Mozaik: TMenuItem;  // элемент меню
     N4: TMenuItem;
     N6: TMenuItem;
     N7: TMenuItem;
